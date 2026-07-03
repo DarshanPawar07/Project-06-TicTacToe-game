@@ -28,9 +28,9 @@ A responsive **Tic-Tac-Toe** web application built using **HTML**, **CSS**, and 
 ```text
 Tic-Tac-Toe/
 │── index.html
-│── style.css
-│── script.js
-├── Assets/
+│── index.css
+│── index.js
+├── assets/
 └── README.md
 ```
 
